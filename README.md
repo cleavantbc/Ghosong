@@ -25,6 +25,7 @@ This application was developed collaboratively by a team of four:
 ### User Interface
 <img width="666" height="1074" alt="Screenshot 2026-05-06 154657" src="https://github.com/user-attachments/assets/934380ab-0969-48ca-b0cd-428b061e0959" /><img width="1074" height="643" alt="Screenshot 2026-05-06 154844" src="https://github.com/user-attachments/assets/27afdefe-9bfe-4ae3-8d0c-764371fc0a40" />
 [UI_Ghosong.pdf](https://github.com/user-attachments/files/27432784/UI_Ghosong.pdf)
+<img width="1071" height="688" alt="Screenshot 2026-05-06 155144" src="https://github.com/user-attachments/assets/ff0c4e74-2bc0-4fe2-ac37-2832dbdc2145" />
 
 
 ### Backend Logic (Thunkable Blocks)
