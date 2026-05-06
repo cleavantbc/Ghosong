@@ -23,7 +23,10 @@ This application was developed collaboratively by a team of four:
 
 
 ### User Interface
-*(Drag and drop the app screenshots here!)*
+<img width="666" height="1074" alt="Screenshot 2026-05-06 154657" src="https://github.com/user-attachments/assets/934380ab-0969-48ca-b0cd-428b061e0959" /><img width="1074" height="643" alt="Screenshot 2026-05-06 154844" src="https://github.com/user-attachments/assets/27afdefe-9bfe-4ae3-8d0c-764371fc0a40" />
+[UI_Ghosong.pdf](https://github.com/user-attachments/files/27432784/UI_Ghosong.pdf)
+
 
 ### Backend Logic (Thunkable Blocks)
-*(Drag and drop your screenshots of the complex Thunkable blocks here!)*
+<img width="1704" height="1151" alt="Screenshot 2026-05-06 160615" src="https://github.com/user-attachments/assets/6710cee2-7a8f-4f60-b2b5-8f6082529e2f" />
+[Code_Ghosong.pdf](https://github.com/user-attachments/files/27432797/Code_Ghosong.pdf)
